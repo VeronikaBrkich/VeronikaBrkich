@@ -1,4 +1,4 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! I'm Verónika! Full Stack Developer
 
 ## About me
 
